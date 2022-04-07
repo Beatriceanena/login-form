@@ -1,0 +1,66 @@
+body{
+    background-image:url(/images1/ocean.jpeg);
+    background-position:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+ 
+  
+}
+.Signup-form{
+    border: 2px solid black;
+    width: 400px;
+    height: 650px;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto, 20px;
+    padding: 30px;
+    outline: salmon;
+    background-color:rgb(127, 239, 243);
+  
+}
+form label{
+    display: flex;
+    margin-top: 8px;
+    font-size: 20px;
+}
+form input{
+    width: 90%;
+    padding: 13px;
+    border-radius:6px
+
+}
+h1{
+    margin-top: -10px;
+    text-align: center;
+}
+#button{
+    width: 400px;
+    margin-top: 30px;
+    background-color: rgba(8, 119, 58, 0.842);
+}
+.login{
+    border: 2px solid black;
+    width: 400px;
+    height: 650px;
+    margin-top:20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto, 20px;
+    padding: 30px;
+    outline: salmon;
+    background-color:rgb(127, 239, 243);
+}
+#button{
+    width: 395px;
+    margin-top: 30px;
+    background-color: rgba(8, 119, 58, 0.842);
+}
+span{
+    margin-left: 5%;
+}
+p{
+    margin-top: 8%;
+}
