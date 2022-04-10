@@ -1,66 +1,62 @@
 body{
-    background-image:url(/images1/ocean.jpeg);
+    background-color: #e99fb5;
     background-position:fixed;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-   
- 
-  
 }
 .Signup-form{
-    border: 2px solid black;
+    border: 2px solid white;
     width: 400px;
-    height: 650px;
-    margin-top:20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto, 20px;
+    height: 550px;
+    margin:20px auto ;
     padding: 30px;
-    outline: salmon;
-    background-color:rgb(127, 239, 243);
-  
+    background-color:white;
+    background-size: contain;
+    background-repeat: no-repeat; 
 }
 form label{
     display: flex;
     margin-top: 8px;
     font-size: 20px;
+    color: #AB3A5C;
 }
 form input{
     width: 90%;
     padding: 13px;
-    border-radius:6px
+    border-radius:6px;
+
+
 
 }
 h1{
     margin-top: -10px;
     text-align: center;
+    color:#AB3A5C;
 }
 #button{
-    width: 400px;
+    width: 60px;
     margin-top: 30px;
-    background-color: rgba(8, 119, 58, 0.842);
+    background-color:#AB3A5C;
 }
 .login{
-    border: 2px solid black;
+    border: 2px solid #AB3A5C;
     width: 400px;
-    height: 650px;
-    margin-top:20px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: auto, 20px;
-    padding: 30px;
-    outline: salmon;
-    background-color:rgb(127, 239, 243);
+    height: 550px;
+    margin:20px auto;
+    padding: 40px;
+    background-color:white;
 }
-#button{
+#button {
     width: 395px;
     margin-top: 30px;
-    background-color: rgba(8, 119, 58, 0.842);
+    background-color:#AB3A5C;
 }
 span{
     margin-left: 5%;
+    color:#AB3A5C;
 }
 p{
     margin-top: 8%;
+    color: #AB3A5C;
 }
